@@ -1,6 +1,6 @@
 ## Hi there, I am Muskan. 👋
 
-👩‍🎓 I am pursuing my Bachelors in Computer Science Engineering. I love everything from development, product, writing and playing a piano. 
+👩‍🎓 I am pursuing my Bachelors in Computer Science Engineering. I love everything from development, product, writing and playing piano. 
 
 🔭 I’m currently working on a product of my own.
 
