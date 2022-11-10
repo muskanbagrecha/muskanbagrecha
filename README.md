@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on a product of my own.
 
-🌱 I’m currently learning ReactJS.
+🌱 I’m currently learning Java and Springboot.
 
 # My GitHub Stats
 
