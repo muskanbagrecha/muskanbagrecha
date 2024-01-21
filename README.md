@@ -2,8 +2,6 @@
 
 👩‍🎓 I am pursuing my Bachelors in Computer Science Engineering. I love everything from development, product, writing and playing piano. 
 
-🔭 I’m currently working on a product of my own.
-
 🌱 I’m currently learning Java and Springboot.
 
 # My GitHub Stats
