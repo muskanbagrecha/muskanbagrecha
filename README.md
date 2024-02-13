@@ -1,8 +1,8 @@
 ## Hi there, I am Muskan. 👋
 
-👩‍🎓 I am pursuing my Bachelors in Computer Science Engineering. I love everything from development, product, writing and playing piano. 
+👩‍🎓 I am working as a software engineer in Wells Fargo. 
 
-🌱 I’m currently learning Java and Springboot.
+🌱 I’m currently learning Java and Springboot and designing large scale systems.
 
 # My GitHub Stats
 
