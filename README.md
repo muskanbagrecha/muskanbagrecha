@@ -2,8 +2,6 @@
 
 👩‍🎓 I am working as a software engineer in Wells Fargo. 
 
-🌱 I’m currently learning Java and Springboot and designing large scale systems.
-
 # My GitHub Stats
 
 ![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskanbagrecha&theme=dracula&show_icons=true)
